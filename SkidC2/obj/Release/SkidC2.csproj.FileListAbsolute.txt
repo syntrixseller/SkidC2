@@ -1,0 +1,7 @@
+C:\Users\miles\source\repos\SkidC2\SkidC2\bin\Release\SkidC2.exe.config
+C:\Users\miles\source\repos\SkidC2\SkidC2\bin\Release\SkidC2.exe
+C:\Users\miles\source\repos\SkidC2\SkidC2\bin\Release\SkidC2.pdb
+C:\Users\miles\source\repos\SkidC2\SkidC2\obj\Release\SkidC2.csproj.AssemblyReference.cache
+C:\Users\miles\source\repos\SkidC2\SkidC2\obj\Release\SkidC2.csproj.CoreCompileInputs.cache
+C:\Users\miles\source\repos\SkidC2\SkidC2\obj\Release\SkidC2.exe
+C:\Users\miles\source\repos\SkidC2\SkidC2\obj\Release\SkidC2.pdb
