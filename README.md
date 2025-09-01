@@ -9,7 +9,6 @@
 ![version](https://img.shields.io/badge/version-1.0.0-red) 
 ![csharp](https://img.shields.io/badge/C%23-.NET%204.8-blue)
 ![platform](https://img.shields.io/badge/platform-Windows-lightgrey)
-![license](https://img.shields.io/badge/license-EDUCATIONAL ONLY-brightgreen)
 ![vibe](https://img.shields.io/badge/vibe-100%25%20Skid-orange)
 
 **⚠️ WARNING: FOR EDUCATIONAL PURPOSES ONLY. DO NOT USE ILLEGALLY. ⚠️**
