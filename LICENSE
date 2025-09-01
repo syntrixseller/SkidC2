@@ -1,70 +1,48 @@
----
+MIT License
 
-# EDUCATIONAL USE ONLY LICENSE
+Copyright (c) 2025 dex
 
-**Version 1.0, December 2023**
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-## 📜 LICENSE TERMS
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-### 1. GRANT OF RIGHTS
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use the Software **SOLELY FOR EDUCATIONAL, RESEARCH, OR SECURITY TESTING PURPOSES** in environments where they have explicit, written authorization.
+**ADDITIONAL TERMS AND CONDITIONS:**
 
-### 2. RESTRICTIONS
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. **YOU MAY NOT:**
+1. **ATTRIBUTION REQUIREMENT:** Any use, distribution, or modification of this 
+   Software must give clear and visible credit to the original author(s) with 
+   a link to the original repository.
 
-- 🚫 Use the Software for any illegal or unauthorized purpose
-- 🚫 Deploy the Software against systems without explicit owner consent  
-- 🚫 Use the Software to damage, disrupt, or gain unauthorized access to systems
-- 🚫 Modify the Software for malicious purposes
-- 🚫 Distribute the Software without this license and disclaimer
-- 🚫 Use the Software in production environments
-- 🚫 Hold the authors liable for any misuse of the Software
+2. **NO COMMERCIAL USE:** This Software may not be used for commercial purposes, 
+   including but not limited to: selling, licensing, or incorporating into 
+   commercial products without explicit written permission from the author.
 
-### 3. NO WARRANTY
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+3. **NO MALICIOUS USE:** This Software is provided for educational and research 
+   purposes only. Use of this Software for unauthorized access, damage to systems, 
+   or any illegal activities is strictly prohibited.
 
-### 4. INTENDED USE
-This Software is intended for:
+4. **NO SKIDDING:** You may not claim this Software as your own work. Any 
+   derivatives or modifications must be clearly marked as such and maintain 
+   this license agreement.
 
-- ✅ Academic research in computer security
-- ✅ Penetration testing in authorized environments  
-- ✅ Security education and training
-- ✅ Developing defensive security techniques
-- ✅ Controlled lab environments with proper isolation
+5. **NO MILITARY OR LAW ENFORCEMENT USE:** This Software may not be used by 
+   military, intelligence agencies, or law enforcement without explicit 
+   written permission from the author.
 
-### 5. NO MALICIOUS USE
-You agree not to use the Software to:
+**DISCLAIMER:**
 
-- 🚫 Create malware or malicious software
-- 🚫 Compromise systems without permission
-- 🚫 Steal data or personal information
-- 🚫 Disrupt services or systems
-- 🚫 Cause damage to any property
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-### 6. COMPLIANCE WITH LAWS
-You are solely responsible for ensuring your use of the Software complies with all applicable laws, regulations, and ethical guidelines in your jurisdiction.
-
-### 7. TERMINATION
-This license terminates automatically if you fail to comply with any of its terms and conditions.
-
-## 🔒 LEGAL DISCLAIMER
-
-**THE AUTHORS ARE NOT RESPONSIBLE FOR ANY MISUSE OF THIS SOFTWARE.** By using this Software, you acknowledge that:
-
-- You are solely responsible for your actions
-- You will use this Software only in legal, authorized contexts
-- You understand the potential consequences of misuse
-- You have the technical knowledge to use this Software safely
-
-## 📝 HOW TO USE THIS LICENSE
-
-Create a file named `LICENSE` in your project root and paste this text.
-
-**ADD THIS TO YOUR README.MD:**
-```markdown
-## 📜 License
-
-This project is licensed under the **Educational Use Only License**. See [LICENSE](LICENSE) file for details.
-
-**⚠️ WARNING: FOR EDUCATIONAL PURPOSES ONLY. MISUSE MAY RESULT IN LEGAL CONSEQUENCES.**
-```
+**VIOLATION OF THESE TERMS WILL RESULT IN IMMEDIATE LICENSE TERMINATION AND 
+MAY LEAD TO LEGAL ACTION.**
