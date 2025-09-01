@@ -1,0 +1,70 @@
+---
+
+# EDUCATIONAL USE ONLY LICENSE
+
+**Version 1.0, December 2023**
+
+## 📜 LICENSE TERMS
+
+### 1. GRANT OF RIGHTS
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use the Software **SOLELY FOR EDUCATIONAL, RESEARCH, OR SECURITY TESTING PURPOSES** in environments where they have explicit, written authorization.
+
+### 2. RESTRICTIONS
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. **YOU MAY NOT:**
+
+- 🚫 Use the Software for any illegal or unauthorized purpose
+- 🚫 Deploy the Software against systems without explicit owner consent  
+- 🚫 Use the Software to damage, disrupt, or gain unauthorized access to systems
+- 🚫 Modify the Software for malicious purposes
+- 🚫 Distribute the Software without this license and disclaimer
+- 🚫 Use the Software in production environments
+- 🚫 Hold the authors liable for any misuse of the Software
+
+### 3. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+### 4. INTENDED USE
+This Software is intended for:
+
+- ✅ Academic research in computer security
+- ✅ Penetration testing in authorized environments  
+- ✅ Security education and training
+- ✅ Developing defensive security techniques
+- ✅ Controlled lab environments with proper isolation
+
+### 5. NO MALICIOUS USE
+You agree not to use the Software to:
+
+- 🚫 Create malware or malicious software
+- 🚫 Compromise systems without permission
+- 🚫 Steal data or personal information
+- 🚫 Disrupt services or systems
+- 🚫 Cause damage to any property
+
+### 6. COMPLIANCE WITH LAWS
+You are solely responsible for ensuring your use of the Software complies with all applicable laws, regulations, and ethical guidelines in your jurisdiction.
+
+### 7. TERMINATION
+This license terminates automatically if you fail to comply with any of its terms and conditions.
+
+## 🔒 LEGAL DISCLAIMER
+
+**THE AUTHORS ARE NOT RESPONSIBLE FOR ANY MISUSE OF THIS SOFTWARE.** By using this Software, you acknowledge that:
+
+- You are solely responsible for your actions
+- You will use this Software only in legal, authorized contexts
+- You understand the potential consequences of misuse
+- You have the technical knowledge to use this Software safely
+
+## 📝 HOW TO USE THIS LICENSE
+
+Create a file named `LICENSE` in your project root and paste this text.
+
+**ADD THIS TO YOUR README.MD:**
+```markdown
+## 📜 License
+
+This project is licensed under the **Educational Use Only License**. See [LICENSE](LICENSE) file for details.
+
+**⚠️ WARNING: FOR EDUCATIONAL PURPOSES ONLY. MISUSE MAY RESULT IN LEGAL CONSEQUENCES.**
+```
